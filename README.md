@@ -24,11 +24,22 @@ Web3Verse is not just another VR space; it's a thriving digital ecosystem where 
   - **Avalanche** - Integrated with Unity to mint the NFTs
   - **Spheron** - IFPS for Hosting NFTs, Hosting Backend
   - **Wormhole** - Cross chain transactions between avalanche and sui network
+  - **Push Protocl** - Managing Communities using Channel Feature
   - **Unity** - Built the complete VR world
   - **Move** - Writing secure and fast smart contracts
   - **Androdi Avatar** - Converting you into a ready to use avatar in VR World
 
 ##  Features
+  - Create Your Own Avatar and Present yourself Uniquely in VR World.
+  - Meet New Friends, Create and Manage Community in VR World using Push Protocol.
+  - Play Games and get credits in your account which you can use to mint NFTs.
+  - Talk and Chat with your Friends in VR World.
+  - Buy and Sell lands in VR World.
+  - Manage your assets in Web Applications.
+  - Mint NFTs at low cost Gas Fees.
+  - Social Login for seamless onboarding process.
+  - Get Portfolio overview (Overall Profit and Loss).
+  - Transfer Crypto from one chain to another chain seamlessly using Wormhole.
 
 ## Project Demo
 
