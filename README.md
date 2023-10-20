@@ -1,4 +1,4 @@
-# Web3Verse
+# Web3Verse : Your World, Your Way, in VR Today!
 
 <p align="center">
 <img src="https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/cfd6012f-a859-4d8b-806f-073d1512d669"  width="300" height="300">
@@ -31,3 +31,4 @@ Web3Verse is not just another VR space; it's a thriving digital ecosystem where 
 ##  Features
 
 ## Project Demo
+
