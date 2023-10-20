@@ -9,7 +9,7 @@ Welcome to Web3Verse, an immersive virtual reality world where you can connect w
 
 ## Overview
 
-Web3Verse is not just another VR space; it's a thriving digital ecosystem where you can:-
+Web3Verse is not just another VR space; it's a thriving digital blockchain ecosystem where you can:-
 
 - **Connect & Socialize**: Meet new people, forge connections, and socialize with others, all from the comfort of your own space.
 - **Land Ownership**: Invest in digital real estate by buying and selling virtual lands within the metaverse.
