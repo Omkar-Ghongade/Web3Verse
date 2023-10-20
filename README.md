@@ -1,8 +1,8 @@
 # Web3Verse
 
-
-
-
+<p align="center">
+<img src="https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/cfd6012f-a859-4d8b-806f-073d1512d669"  width="300" height="300">
+</p>
 
 
 Welcome to Web3Verse, an immersive virtual reality world where you can connect with others from the comfort of your seat. In Web3Verse, you'll have the opportunity to buy and sell virtual lands, trade NFTs, engage in a variety of games, exchange digital assets, and explore a vibrant VR universe while forging new connections with people from around the globe. Dive into the future of online social interaction and digital commerce right here in Web3Verse.
