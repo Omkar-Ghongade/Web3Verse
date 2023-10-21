@@ -42,6 +42,8 @@ Web3Verse is not just another VR space; it's a thriving digital blockchain ecosy
 
 ## Project Pictutes
 
+### VR World Pictures
+
 ### Web App Pictures
 ![WhatsApp Image 2023-10-21 at 05 44 26_600a2709](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/66f493c0-4b82-4c1c-866b-5bb9b0d69fc6)
 ![WhatsApp Image 2023-10-21 at 05 44 24_aa25167a](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/932b96f7-0174-43ef-ab90-e191300b45fb)
@@ -49,6 +51,8 @@ Web3Verse is not just another VR space; it's a thriving digital blockchain ecosy
 ![WhatsApp Image 2023-10-21 at 05 44 25_2992773e](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/4c38df2e-a8f8-4d6a-91c1-6bb42c4d6ec9)
 ![WhatsApp Image 2023-10-21 at 05 44 25_f38e57e9](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/8a40fd67-d441-4961-8688-dfbd57b35d97)
 ![WhatsApp Image 2023-10-21 at 05 44 25_a36bbb57](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/1e371e2a-35ac-48fb-a04d-acdfb11e1618)
+
+### Mobile App Pictures
 
 
 ## Project Demo
