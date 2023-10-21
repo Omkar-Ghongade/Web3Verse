@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658281754968",
+    "firebase_url": "https://webverse-3c98e-default-rtdb.firebaseio.com",
+    "project_id": "webverse-3c98e",
+    "storage_bucket": "webverse-3c98e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658281754968:android:106992c70b3e464341b52d",
+        "android_client_info": {
+          "package_name": "com.ritorno.webverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658281754968-0quee48pc40u4tu6fbjcc9vb3epe1fa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ritorno.webverse",
+            "certificate_hash": "f7aaaa34b5014185b9f36c2d87de3595e6829e7b"
+          }
+        },
+        {
+          "client_id": "658281754968-f0f4vnqkp7rllv6t6p18epb8b6jifvla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbtWFJ2FzPzF6VjFrxVcB4eEisFry0WW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658281754968-f0f4vnqkp7rllv6t6p18epb8b6jifvla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
