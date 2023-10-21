@@ -45,6 +45,15 @@ Web3Verse is not just another VR space; it's a thriving digital blockchain ecosy
 ## Project Pictutes
 
 ### VR World Pictures
+![WhatsApp Image 2023-10-21 at 08 54 10_571b368b](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/b300cb6d-566c-463b-966f-248ea20258b6)
+![WhatsApp Image 2023-10-21 at 08 54 10_b84a15a6](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/1ac63350-040c-4d0e-bc89-28bfc6f60ad0)
+![WhatsApp Image 2023-10-21 at 08 54 11_dfd15986](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/8fe272b8-b5e8-4ffb-9487-2fec7cee52fd)
+![WhatsApp Image 2023-10-21 at 08 54 11_ada5179a](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/0acac4a9-e73d-4fb7-aaa2-fde81efcddc3)
+![WhatsApp Image 2023-10-21 at 08 54 12_56463543](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/296de857-e862-4a0c-8015-88de3f436d46)
+![WhatsApp Image 2023-10-21 at 08 54 14_1283bae7](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/13580ddb-2775-4acd-a540-21301e48a363)
+![WhatsApp Image 2023-10-21 at 08 54 11_1b0a0daf](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/2b173e11-9d39-4fdc-9e54-53ab09ed3ca2)
+![WhatsApp Image 2023-10-21 at 08 54 13_062cac51](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/4240bc63-6890-4b94-a865-b033eb958ac2)
+
 
 ### Web App Pictures
 ![WhatsApp Image 2023-10-21 at 05 44 26_600a2709](https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/66f493c0-4b82-4c1c-866b-5bb9b0d69fc6)
@@ -58,10 +67,12 @@ Web3Verse is not just another VR space; it's a thriving digital blockchain ecosy
 <p align="center">
 <img src="https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/dc7719ab-99f5-4cce-8da7-c0ae357f7d0a"  width="300" height="700">
 <img src="https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/78d70ecd-e4a9-4192-8ef8-a94517461d9f"  width="300" height="700">
-<img src="https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/78d70ecd-e4a9-4192-8ef8-a94517461d9f"  width="300" height="700">
 </p>
 <p align="center">
+<img src="https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/78d70ecd-e4a9-4192-8ef8-a94517461d9f"  width="300" height="700">
 <img src="https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/0a190675-cebd-49ef-8c98-a4a2047a1ddc"  width="300" height="700">
+</p>
+<p align="center">
 <img src="https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/cc5358c7-0519-4f56-bd3d-0f4b29015545"  width="300" height="700">
 <img src="https://github.com/Omkar-Ghongade/Web3Verse/assets/88375748/15d5403a-b2a1-4e56-a1a0-5eb51919723a"  width="300" height="700">
 </p>
