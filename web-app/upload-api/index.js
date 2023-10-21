@@ -7,7 +7,7 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 8111;
-const SPHERON_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlLZXkiOiJjZWVhNzcwYzI0NjViNGMyM2Q3MmQ2ZmI5MTcyNDMzZGQzYTk2NjUxMDA1N2IwZGY4YmU5ODYxZWNjNjgwZGMxYjI5NTZjYjNhZDI0ODc5YmEzYjVlYzNiYjY5ZjdiZmM1NzUwNWY3MTExNDEzNmI5ZTIwM2I0YWEzMWMyMGY0NCIsImlhdCI6MTY5NzcyMTIxNiwiaXNzIjoid3d3LnNwaGVyb24ubmV0d29yayJ9.k9E0xYHDB51nEpp9_769FGMl18fwWWA5BgNvaKphOY0"
+const SPHERON_TOKEN = process.env.SPHERON_TOKEN;
 
 app.use(cors());
 

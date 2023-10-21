@@ -66,9 +66,7 @@ export default function MintNFTPage() {
               transactionBlock.pure(nftName),
               transactionBlock.pure(nftDescription),
               transactionBlock.pure(
-                'https://bafybeihpflws4artmbf46auwptqq7miqwxg6ec4rpbtjcwjvsrsvzzu754.ipfs.sphn.link' +
-                  '/' +
-                  file?.name,
+                process.env.NEXT_PUBLIC_IPFS_GATEWAY + '/' + file?.name,
               ),
             ],
           })
@@ -151,6 +149,8 @@ export default function MintNFTPage() {
           Create My NFT
         </Button>
       </Stack>
+
+      {dynamicLink + '/' + uploadLink}
     </MainLayout>
   )
 }
