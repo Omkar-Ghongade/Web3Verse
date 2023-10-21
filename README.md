@@ -52,5 +52,3 @@ Web3Verse is not just another VR space; it's a thriving digital blockchain ecosy
 
 
 ## Project Demo
-
-## Future Aspects
