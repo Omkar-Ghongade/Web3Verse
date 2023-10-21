@@ -1,0 +1,4 @@
+.dashboard_container:hover {
+  border-color: #be185d !important;
+  cursor: pointer;
+}
