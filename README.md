@@ -21,9 +21,10 @@ Web3Verse is not just another VR space; it's a thriving digital blockchain ecosy
 
 ## Technologies Used
   - **Sui Network** - Integrated zk-Login with the web application, Minting NFTs, Used SUI Walltes on Smart Contract
+  - **Avalanche** - Transactions from Unity to Web App, deployed of Fuji Testnet
   - **Spheron** - IFPS for Hosting NFTs, Hosting Backend
   - **Wormhole** - Cross chain transactions between avalanche and sui network
-  - **Push Protocl** - Managing Communities using Channel Feature
+  - **Push Protocol** - Managing Communities using Channel Feature
   - **Unity** - Built the complete VR world
   - **Move** - Writing secure and fast smart contracts
   - **Androdi Avatar** - Converting you into a ready to use avatar in VR World
